@@ -7,3 +7,22 @@ html {
     font-size: 62.5%;
     min-height: 100%;
 }
+
+li {
+    list-style: none; 
+}
+
+img {
+    width: 10px;
+}
+
+.container {
+    display: grid;
+    background-color:aliceblue;
+    grid-template-columns: 25% 1fr;
+    grid-template-rows: 10% 1fr;
+}
+
+header{
+    
+}
